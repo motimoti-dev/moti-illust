@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "moti21-live2d.moc3",
+		"Textures": [
+			"moti21-live2d.4096/texture_00.png"
+		],
+		"Physics": "moti21-live2d.physics3.json",
+		"DisplayInfo": "moti21-live2d.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

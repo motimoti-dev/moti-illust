@@ -1,0 +1,310 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "SleepCostume1",
+			"GroupId": "",
+			"Name": "寝てる時の〇3つ"
+		},
+		{
+			"Id": "ParamSleep",
+			"GroupId": "",
+			"Name": "寝てる時の〇3つの動き"
+		},
+		{
+			"Id": "SleepCostume2",
+			"GroupId": "",
+			"Name": "睡眠帽子"
+		},
+		{
+			"Id": "SleepCostume3",
+			"GroupId": "",
+			"Name": "睡眠枕"
+		},
+		{
+			"Id": "DetectiveCostume1",
+			"GroupId": "",
+			"Name": "探偵服"
+		},
+		{
+			"Id": "DetectiveCostume2",
+			"GroupId": "",
+			"Name": "探偵帽子"
+		},
+		{
+			"Id": "DetectiveCostume3",
+			"GroupId": "",
+			"Name": "虫眼鏡"
+		},
+		{
+			"Id": "MagnifyingGlassParam",
+			"GroupId": "",
+			"Name": "虫眼鏡動き"
+		},
+		{
+			"Id": "PyokoParam",
+			"GroupId": "",
+			"Name": "ぴょこぴょこ"
+		},
+		{
+			"Id": "FacePien",
+			"GroupId": "",
+			"Name": "ぴえん"
+		},
+		{
+			"Id": "FaceNiyari",
+			"GroupId": "",
+			"Name": "にやり"
+		},
+		{
+			"Id": "FaceSleep",
+			"GroupId": "",
+			"Name": "眠り顔"
+		},
+		{
+			"Id": "Face2",
+			"GroupId": "",
+			"Name": "顔2"
+		},
+		{
+			"Id": "FaceDef",
+			"GroupId": "",
+			"Name": "デフォルト顔"
+		},
+		{
+			"Id": "Cheek1",
+			"GroupId": "",
+			"Name": "ほほ1"
+		},
+		{
+			"Id": "Cheek2",
+			"GroupId": "",
+			"Name": "ほほ2"
+		},
+		{
+			"Id": "Cheek3",
+			"GroupId": "",
+			"Name": "ほほ3"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "下書き"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ほほ"
+		},
+		{
+			"Id": "Part4",
+			"Name": "ねむりもち"
+		},
+		{
+			"Id": "Part6",
+			"Name": "探偵"
+		},
+		{
+			"Id": "Part12",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part21",
+			"Name": "上のもち"
+		},
+		{
+			"Id": "Part23",
+			"Name": "下のもち"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ほほ3"
+		},
+		{
+			"Id": "Part5",
+			"Name": "帽子"
+		},
+		{
+			"Id": "Part7",
+			"Name": "服部分"
+		},
+		{
+			"Id": "Part10",
+			"Name": "帽子"
+		},
+		{
+			"Id": "Part13",
+			"Name": "顔デフォルト"
+		},
+		{
+			"Id": "Part15",
+			"Name": "ぴえん"
+		},
+		{
+			"Id": "Part20",
+			"Name": "眠り顔"
+		},
+		{
+			"Id": "Part22",
+			"Name": "焦げ"
+		},
+		{
+			"Id": "Part8",
+			"Name": "→服"
+		},
+		{
+			"Id": "Part9",
+			"Name": "←服"
+		},
+		{
+			"Id": "Part11",
+			"Name": "帽子"
+		},
+		{
+			"Id": "Part14",
+			"Name": "口"
+		},
+		{
+			"Id": "Part16",
+			"Name": "目"
+		},
+		{
+			"Id": "Part19",
+			"Name": "口"
+		},
+		{
+			"Id": "Part17",
+			"Name": "←"
+		},
+		{
+			"Id": "Part18",
+			"Name": "→"
+		}
+	]
+}
